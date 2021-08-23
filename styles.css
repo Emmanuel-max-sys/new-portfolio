@@ -1,0 +1,12 @@
+ul li {
+    display: inline-block;
+    justify-content: center;
+}
+
+li {
+    margin-left: 3rem;
+}
+
+.card-text, .card-title {
+    color: black;
+}
